@@ -1,0 +1,13 @@
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\bin\Debug\DutchRoadTextures.dll
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\bin\Debug\DutchRoadTextures.pdb
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\bin\Debug\Assembly-CSharp.dll
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\bin\Debug\ColossalManaged.dll
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\bin\Debug\ICities.dll
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\bin\Debug\UnityEngine.dll
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\bin\Debug\UnityEngine.UI.dll
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\bin\Debug\Assembly-CSharp-firstpass.dll
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\bin\Debug\ICSharpCode.SharpZipLib.dll
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\bin\Debug\UnityEngine.xml
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\obj\Debug\DutchRoadTextures.csprojResolveAssemblyReference.cache
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\obj\Debug\DutchRoadTextures.dll
+d:\users\nique\documents\visual studio 2013\Projects\DutchRoadTextures\DutchRoadTextures\obj\Debug\DutchRoadTextures.pdb
